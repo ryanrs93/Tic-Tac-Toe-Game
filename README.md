@@ -20,7 +20,7 @@
     </header>
 </body>
     <footer>
-        <p>&copy; 2023 Ryan Silva | Georgetown University </p>
+        <p>&copy; 2023 Ryan Silva | Georgetown University (69) </p>
     </footer>
 
     <script type="text/javascript">
